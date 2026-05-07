@@ -1,0 +1,12 @@
+node_modules
+.env
+.env.*
+.git
+.cursor
+terminals
+agent-transcripts
+npm-debug.log
+*.log
+android
+ios
+
